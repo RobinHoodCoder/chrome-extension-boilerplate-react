@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react",
+  "name": "pop-up-blocker",
   "version": "4.2.0",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "description": "blocks popups4",
   "license": "MIT",
   "repository": {
     "type": "git",
